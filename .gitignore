@@ -1,0 +1,25 @@
+# Системные файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Кэш компилятора Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Виртуальные окружения и зависимости
+.venv/
+venv/
+ENV/
+env/
+build/
+dist/
+*.egg-info/
+
+# Настройки IDE / Редакторов
+.vscode/
+.idea/
+*.swp
+
