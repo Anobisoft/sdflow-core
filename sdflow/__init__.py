@@ -1,5 +1,6 @@
 # sdui_core/__init__.py
-from .components import container, text, input, button, markdown
+from .components import container, text, input, button, markdown, link
+
 
 __all__ = ["HTMLRenderer"]
 
